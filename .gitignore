@@ -1,0 +1,18 @@
+.idea/
+# Maven/Gradle
+/target/
+/out/
+
+#IntelliJ IDEA
+*.iml
+*.xml
+*.ipr
+*.iws
+
+*.class
+*.log
+
+*.properties
+
+.DS_Store
+Thumbs.db
