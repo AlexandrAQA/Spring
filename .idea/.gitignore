@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Исключение всей папки .idea
+.idea/
+
+# Исключение целевых (сборочных) файлов Maven или Gradle
+/target/
+/out/
+
+# Исключение файлов настроек IntelliJ IDEA
+*.iml
+*.xml
+*.ipr
+*.iws
+
+# Исключение бинарных файлов и логов
+*.class
+*.log
+
+# Исключение пользовательских настроек
+*.properties
+
+# Исключение системных файлов
+.DS_Store
+Thumbs.db
+
